@@ -67,6 +67,11 @@ The script returns a structured JSON output containing:
 }
 ```
 
+## EXAMPLE SCREENSHOT
+![Identifier Screenshot](Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-02-17%20100327.png)
+
+
+
 ## 📜 License
 This project is open-source...
 
